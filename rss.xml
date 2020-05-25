@@ -11,5 +11,15 @@
 
 <!-- DB -->
 
+<item>
+<title>Dee's first blog post</title>
+<guid>https://drewfrd.com/2020.html#dees-first-blog-post</guid>
+<pubDate>Mon, 25 May 2020 17:07:08 +0000</pubDate>
+<description><![CDATA[
+<p>Dee's words written here</p>
+]]></description>
+</item>
+
+
 </channel>
 </rss>
